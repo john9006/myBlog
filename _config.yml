@@ -28,7 +28,8 @@ twitter_username: john9006
 github_username:  john.kelly9006
 
 # Build settings
-theme: minima
+# removed minima theme as have copied the files into local repo so they can be customised and are now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
